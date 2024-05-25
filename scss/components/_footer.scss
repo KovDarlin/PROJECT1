@@ -1,0 +1,10 @@
+footer {
+    width: 100%;
+    border-top: 1px solid $font_color;
+
+    .footer_btn {
+        //@extend .btn
+        @include btn_style(rgb(43, 135, 163), violet, 3px);
+        @include font_formated($font-family, 34px, 600, rgb(63, 39, 7))
+    }
+}

@@ -1,0 +1,20 @@
+@mixin bordered ($color) {
+    border-top: 1px solid $color;
+    border-bottom: 1px solid $color;
+}
+
+@mixin btn_style ($color, $font_color, $radius) {
+    background-color: $color;
+    color: $font_color;
+    border-radius: $radius;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+@mixin font_formated($font_name, $font_size, $font_weight, $color) {
+    font-family: $font_name;
+    font-size: $font_size;
+    font-weight: $font_weight;
+    color: $color;
+}

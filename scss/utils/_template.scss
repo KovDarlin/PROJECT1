@@ -1,0 +1,17 @@
+.btn {
+    background-color: red;
+    color: $background_color;
+    border-radius: $card_border_radius;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+.head_text {
+    font-size: 32px;
+    font-weight: 800;
+}
+
+.desc_text {
+    font-size: 14px;
+}

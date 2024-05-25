@@ -1,0 +1,7 @@
+body {
+    width: 100vw;
+    display: grid;
+    grid-template-rows: minmax(80px, auto) minmax(600px, 4fr) minmax(120px, auto);
+    background-color: $background_color;
+    color: $font_color;
+}
