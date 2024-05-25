@@ -149,32 +149,32 @@ header .header_icons {
   }*/
 }
 .picture_box .icon-1 {
-  background-image: url("../../img/1.jpg");
+  background-image: url("../img/1.jpg");
   background-repeat: no-repeat;
   background-size: cover;
 }
 .picture_box .icon-2 {
-  background-image: url("../../img/2.jpg");
+  background-image: url("../img/2.jpg");
   background-repeat: no-repeat;
   background-size: cover;
 }
 .picture_box .icon-3 {
-  background-image: url("../../img/3.jpg");
+  background-image: url("../img/3.jpg");
   background-repeat: no-repeat;
   background-size: cover;
 }
 .picture_box .icon-4 {
-  background-image: url("../../img/4.jpg");
+  background-image: url("../img/4.jpg");
   background-repeat: no-repeat;
   background-size: cover;
 }
 .picture_box .icon-5 {
-  background-image: url("../../img/5.jpg");
+  background-image: url("../img/5.jpg");
   background-repeat: no-repeat;
   background-size: cover;
 }
 .picture_box .icon-6 {
-  background-image: url("../../img/6.jpg");
+  background-image: url("../img/6.jpg");
   background-repeat: no-repeat;
   background-size: cover;
 }

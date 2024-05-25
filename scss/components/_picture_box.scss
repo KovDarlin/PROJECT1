@@ -14,7 +14,7 @@
     5,
     6 {
         .icon-#{$picture} {
-            background-image: url('../../img/#{$picture}.jpg');
+            background-image: url('../img/#{$picture}.jpg');
             background-repeat: no-repeat;
             background-size: cover;
         }
